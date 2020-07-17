@@ -32,4 +32,4 @@ for file in $files ; do
   jq_input+=$(echo "$file|$(cat rsa/$file)\n")
 done
 
-echo -en $jq_input | jq -R 'split("|") | {id: .[0], key: .[1]}' > ssh.json
+echo -en $jq_input | jq -R 'split("|") | {id: .[0], key: .[1]}' | jq -s > ssh.json
