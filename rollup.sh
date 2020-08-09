@@ -2,33 +2,19 @@
 
 set -euo pipefail
 
-erika_path="dotfiles/erika/.ssh/authorized_keys"
-primary_path="dotfiles/primary/.ssh/authorized_keys"
+authorized_keys_path="dotfiles/.ssh/authorized_keys"
 
 files=$(ls rsa)
 
-echo -n "" > $erika_path
-echo -n "" > $primary_path
+echo -n "" > $authorized_keys_path
 
 for file in $files; do
-  echo "#$file" >> $erika_path
-  cat rsa/$file >> $erika_path
-done
-
-for file in $files ; do
-  if [ "$file" = "umaru" ] ; then
-    continue
-  fi
-  echo "#$file" >> $primary_path
-  cat rsa/$file >> $primary_path
+  echo "#$file" >> $authorized_keys_path
+  cat rsa/$file >> $authorized_keys_path
 done
 
 jq_input=""
 for file in $files ; do
-  if [ "$file" = "umaru" ] ; then
-    continue
-  fi
-
   jq_input+=$(echo "$file|$(cat rsa/$file)\n")
 done
 
