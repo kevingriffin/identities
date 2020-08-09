@@ -4,10 +4,6 @@
     "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINtSbYvTtBCiFqM9M+DJcTmSUZwTcXnV5/5TFJrpW87h"
   },
   {
-    "id": "flonne-backup",
-    "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIZTIBqrInlUVeBk6x8xpizvZNURdZVCJebRS5TJOEYQ root@flonne"
-  },
-  {
     "id": "haru",
     "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5igzTqwqouTkCgz7SQ/T5Q2OHeiiH0XfDYujroKhFgCruaEF1AgusECaBnmVJVKWp082j1oqM6RLY5TUre2Z0ni8Tmjhz7xYBHa2JRqBSX32kZCK394vd36u7HPhupyViYaQG1K9O0+mk9EkAMyJL6M/woECv6m7/zXQKyPcGVlxXwztDpGFJ30E7xtPN2MgL5z2UXL9+voWEq2k+96irUpTXdDpKVVfXnxi1XTLoOR65wVPNC7BqJ2TPVJL6Ma1/2WPVV9I4NY8fIfXFhNgFnmvBjo2KvXA/Dqk0WvWzZ6DyRk6blsxnlB7bJ1OYcGi+wGiQ8/VZVFMt4cl9NFCp"
   },
@@ -22,10 +18,6 @@
   {
     "id": "tomoyo",
     "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCnOZi47+X1fBMa61bL9l0u8HRzm7JTSXw/dM4vhYttq3btRlpYFbmILEj+/w4FxI8NA2IHsubhIble6FK8+1ilgxYaJoPweZwVC2yvMvG60rr2hVGRBfImObIunH3jzAUdRqtyuzpZlkgOYj8bOwGGFyV2u5C55dixKQGQ557RSq34w9cWiVvBUrB8Tv6ol6JCBYIKljULLUOHdfhup8oK0+19F9c7RkmS/I9P6Y2ETcgIzCKMiioifeBV9pHp5E7q5uB91VMSEdhLHHgq37IfaHxZdcj+Nn451weEsOUsS9wzpmS7pGEp+xpiI/ivlucvg1UuE53WTMMBKnfvz126AMVjJS98udO1cbIFPi/G5vUC6LU8ta9dGrjZsbJddaIBsOIAtpajC0pU+nQluncDnCO7jj6QdCuvgeJk5HzRUHt/2nZQGP8aralA2d8D9Mk/m4b9rGQncCqIOlbBGbO//i02SLguZhOq6YKjjhBEQtwedZXummHuRroXJmNZ3fC0+kGPsURgmLh6eGQhaG/URBKQG0zitaqh7tm6UBMmetD+qE2Dg7/V03XI/RvuJ8SHSYXFd/8qB1xh5QnIIaSmkTEhQVS6r+c2VaMX+tgnWLrQxxVCd/sb//mwy5/03mRecWtlv0k2rjML+XDbbCuupgrTvScLRekg1QIfh11AtQ== me@kevin.jp"
-  },
-  {
-    "id": "tomoyo-backup",
-    "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDWeZHyDoADXgeOV13EjMa1N5tMHQ2pNr9uF2kK3Ynaq borg backup"
   },
   {
     "id": "umaru",
