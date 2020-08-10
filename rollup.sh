@@ -3,7 +3,7 @@
 set -euo pipefail
 
 authorized_keys_path="dotfiles/.ssh/authorized_keys"
-backup_authorized_keys_path="dotfiles/backup/.ssh/authorized_keys"
+backup_authorized_keys_path="backup-dotfiles/.ssh/authorized_keys"
 
 files=$(ls rsa)
 
