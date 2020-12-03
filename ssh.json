@@ -16,6 +16,10 @@
     "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/+yl7+WIm62PC893PY0R3r7lN/OgbW8H3VG7gA/A23wEwPbNKiyZEAhj9nbVppIc+uiPxr7oEmtStBKJRulSZFHf+Jp+LFb8R2Q6JxiHDM82OD5Ba3TYNV629fnR8ITnNr7NShR0YRhko+2dtygcxyepdOWZIRXKp/pKYMjAQW+eU2shhVYRd8WrzSBgVAh1k40JATgiA9SmxH/mYjV2VvIZwPMmEyE2Fruos1jS+238xx5y95gt6gNOknT8uAxeTNz6dxZS5dwhjvNbMDy3WlsGzVhM/jBBQdT/aj3R6lc5OVkMfFbVPzL/COLB2DYHmn6BOjAzD/rSju93yoS6p"
   },
   {
+    "id": "rinoa",
+    "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGMWlTTwEhCJ/Ffsiyydyx2PqrgxPBawI83bbaHlhmnD kevin@rinoa.local"
+  },
+  {
     "id": "tomoyo",
     "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCnOZi47+X1fBMa61bL9l0u8HRzm7JTSXw/dM4vhYttq3btRlpYFbmILEj+/w4FxI8NA2IHsubhIble6FK8+1ilgxYaJoPweZwVC2yvMvG60rr2hVGRBfImObIunH3jzAUdRqtyuzpZlkgOYj8bOwGGFyV2u5C55dixKQGQ557RSq34w9cWiVvBUrB8Tv6ol6JCBYIKljULLUOHdfhup8oK0+19F9c7RkmS/I9P6Y2ETcgIzCKMiioifeBV9pHp5E7q5uB91VMSEdhLHHgq37IfaHxZdcj+Nn451weEsOUsS9wzpmS7pGEp+xpiI/ivlucvg1UuE53WTMMBKnfvz126AMVjJS98udO1cbIFPi/G5vUC6LU8ta9dGrjZsbJddaIBsOIAtpajC0pU+nQluncDnCO7jj6QdCuvgeJk5HzRUHt/2nZQGP8aralA2d8D9Mk/m4b9rGQncCqIOlbBGbO//i02SLguZhOq6YKjjhBEQtwedZXummHuRroXJmNZ3fC0+kGPsURgmLh6eGQhaG/URBKQG0zitaqh7tm6UBMmetD+qE2Dg7/V03XI/RvuJ8SHSYXFd/8qB1xh5QnIIaSmkTEhQVS6r+c2VaMX+tgnWLrQxxVCd/sb//mwy5/03mRecWtlv0k2rjML+XDbbCuupgrTvScLRekg1QIfh11AtQ== me@kevin.jp"
   },
