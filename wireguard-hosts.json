@@ -7,13 +7,13 @@
     "ordinal": 5,
     "publicKey": "PBy+Msv2RZSSH9UodBa1JJ5ZsuER7rXinuW2QkzemAE="
   },
-  "haru": {
-    "ordinal": 6,
-    "publicKey": "fLyslIOYAC5kPCrolf/2yqlIQR3vDltnFiM+H6Kk00g="
-  },
   "kasumi": {
     "ordinal": 3,
     "publicKey": "erWAQdCkqatIRy1+01mhBWPg8KApwVrzNxuRGeMGvwE="
+  },
+  "rinoa": {
+    "ordinal": 6,
+    "publicKey": "fLyslIOYAC5kPCrolf/2yqlIQR3vDltnFiM+H6Kk00g="
   },
   "tomoyo": {
     "ordinal": 7,
