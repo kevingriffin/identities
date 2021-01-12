@@ -13,7 +13,7 @@
   },
   {
     "id": "rinoa",
-    "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGMWlTTwEhCJ/Ffsiyydyx2PqrgxPBawI83bbaHlhmnD kevin@rinoa.local"
+    "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYPM9ZIZSMOv9rqtiPoEYKewoNwxBaYZTdkvXogCMjUgmBrkyLecL7+mx/7R9FAWStRi+Zq2RNvKmP+HkDjKpdo/6Oz4CkFyiBEE6SNNkpE6s6kza2TI/PRk3TuHsd0KYT/n6PmOCzX+AFGUOI3lHkz5kSGxxYMZ5od3DxTnjZcPMFard3ilqX+kShKlVHHTWXAS1AGqtl7KqnxQ6kceFayEkWup9G1x83ihmlQhTMgbQGbkJlcx7tO8jHY0wwNbO1FYwUDcaxzYorAVvakgQjg/fY6NI1X2fqdL0Dxi0mW9akYIJ95hltNiS+ZExhlHC79KXcJNkhm2AXBl8XWaRh"
   },
   {
     "id": "tomoyo",
