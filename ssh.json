@@ -1,5 +1,9 @@
 [
   {
+    "id": "anna",
+    "key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFzncheGj77LlRNadHLi6eQmYSW9JRhRdAjIUueW3ZightkvqvFIpBPEQMusrbODdzto2ObH0N6/+EpFS0ThBVQ= La Terminal Enclave Key on Apple Vision Pro"
+  },
+  {
     "id": "chieri",
     "key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBIVqQhPVPnhMfzwgZkmtgWaXUHcIqOd4M17lrYBjduIByV7O1E/PIceC+2qdRkLGxCYJ2ZqFnYzr3QJi5Ho+354="
   },
