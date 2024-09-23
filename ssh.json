@@ -9,7 +9,7 @@
   },
   {
     "id": "kasumi",
-    "key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBD2V5MFODgt/QgjIXbYgLDWH2wgCTbEL/Ys/KTQDIaiUnEuI617McgSDR1lCU4A7h8Kz/V1wW7mCANTXHia2/3s="
+    "key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBAvY4vfUajuxuddWRhDg/ReofBujBPK8yaFsvkccCEiS0y7eC1/G8h8K3b6v08MKc0g5zb18Tr/jVBYBz1cI9JQ= kasumi"
   },
   {
     "id": "tomoyo",
