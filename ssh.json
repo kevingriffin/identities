@@ -1,7 +1,7 @@
 [
   {
     "id": "anna",
-    "key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBFzncheGj77LlRNadHLi6eQmYSW9JRhRdAjIUueW3ZightkvqvFIpBPEQMusrbODdzto2ObH0N6/+EpFS0ThBVQ= La Terminal Enclave Key on Apple Vision Pro"
+    "key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ6k60Y/yRM1DMRBy8SKT8IGiNvgt8ysbskOQAQKwkCv La Terminal key on Apple Vision Pro"
   },
   {
     "id": "chieri",
